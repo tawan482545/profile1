@@ -1,0 +1,32 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+*{font-family: 'Sriracha', cursive;}
+
+body{
+    background: #2e2f2f;
+    color: whitesmoke;
+
+
+}
+
+img {
+    border-radius: 10%;
+}
+
+table, th, td {
+    border: 1px solid red;
+  }
+
+  table {
+    border: solid 1px red;
+} 
+
+table tr td {
+    border: solid 1px blue;
+}     
+
+a{color: aquamarine;}
+
+body
+    {text-align: center;}
